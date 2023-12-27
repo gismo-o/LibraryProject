@@ -1,0 +1,1 @@
+Bu mini kütüphane, Java programlama dilinde geliştirilmiş bir kitap takip uygulamasını içerir. Temel olarak dosya işlemleri kullanılarak kitap bilgilerini depolar ve Java Swing kütüphanesi ile bir grafik kullanıcı arayüzü (GUI) sağlar.
